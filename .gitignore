@@ -1,0 +1,11 @@
+# Ignore model files and cache
+*.pkl
+__pycache__/
+*.csv
+
+# Ignore streamlit logs
+.streamlit/
+
+# Ignore virtual environments
+venv/
+env/

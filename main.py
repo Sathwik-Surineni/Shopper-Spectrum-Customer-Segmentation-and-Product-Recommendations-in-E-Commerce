@@ -17,6 +17,7 @@ df['TotalPrice'] = df['Quantity'] * df['UnitPrice']
 df['InvoiceDate'] = pd.to_datetime(df['InvoiceDate'])
 
 
+
 # RFM Feature Engineering
 
 snapshot_date = df['InvoiceDate'].max() + pd.Timedelta(days=1)
