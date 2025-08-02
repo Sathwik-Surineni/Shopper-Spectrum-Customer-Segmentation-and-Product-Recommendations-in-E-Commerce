@@ -70,6 +70,10 @@ Personalized recommendation systems
 
 RFM-based business insights
 
+## UI Preview
+<img width="1863" height="854" alt="image" src="https://github.com/user-attachments/assets/7d95eaec-77cc-4e7a-8b5e-2108a5f69033" />
+<img width="1855" height="821" alt="image" src="https://github.com/user-attachments/assets/8dd01bf2-3cd1-421e-893f-66b9ad7ebb16" />
+
 
 
 
